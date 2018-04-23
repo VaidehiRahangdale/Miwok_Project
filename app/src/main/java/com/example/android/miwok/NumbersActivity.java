@@ -114,6 +114,7 @@ public class NumbersActivity extends AppCompatActivity {
                 // Set the media player back to null. For our code, we've decided that
                 // setting the media player to null is an easy way to tell that the media player
                 // is not configured to play an audio file at the moment.
+                // Test comment
                 mMediaPlayer = null;
             }
 
